@@ -1,4 +1,12 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4965&height=180&section=header&text=Ashwin%20R&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst&descAlignY=60&descSize=18" alt="Ashwin R, Data Analyst and Business Analyst" width="100%"/>
+
+SQL · Python · Tableau · Excel
+
+Turning raw data into clear, decision-ready insights.
+
+<a href="https://linkedin.com/in/itsashwinr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ashwin2000achu@gmail.com"><img src="https://img.shields.io/badge/Email-1B4965?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/Open%20to%20work-Data%20%26%20Business%20Analyst-2E7D32?style=for-the-badge" alt="Open to work"/>
+
+</div>
 About
 
 I spent two years in regulatory compliance, validating, reconciling and reporting on client and transaction data against exchange and regulatory requirements. That work built the habits I bring to analytics: check the data first, document the logic, and report numbers people can trust.
