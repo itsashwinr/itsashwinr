@@ -1,87 +1,69 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4965&height=180&section=header&text=Ashwin%20R&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst&descAlignY=60&descSize=18" alt="Ashwin R, Data Analyst and Business Analyst" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashwin+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Arise...+and+analyze+the+data;I+level+up+with+every+dataset" alt="Typing SVG" />
+SQL · Python · Tableau · Excel
 
-</div>
+Turning raw data into clear, decision-ready insights.
 
----
-
-### 🟣 `[SYSTEM]` `ashwin@shadow-monarch:~$ cat status.md`
-
-```
-> Class: Data Analyst (In Training)
-> Current Quest: Completing Data Analytics & Machine Learning course (finishing this month)
-> Status: Actively seeking Data Analytics opportunities
-> Passive Skill: SQL, Python, Excel, Tableau, Statistics
-> Title: "The one who levels up through data, not just dungeons."
-```
-
----
-
-### 🌑 About Me
-
-Like a hunter grinding through dungeons to grow stronger, I've been leveling up my data skills one concept at a time. I bring a calm, methodical approach to problems — spotting patterns, extracting insight, and turning messy data into clarity.
-
-- 🎓 Completing a Data Analytics & Machine Learning course this month
-- 🔍 Actively looking for Data Analytics roles
-- 🧠 Skills: SQL • Python • Python Libraries • Excel • Tableau • Statistics
-- ⚔️ Grinding daily — always leveling up
-
----
-
-### 🔮 Tech Arsenal
-
-<p>
-<img src="https://img.shields.io/badge/SQL-2D0A4E?style=for-the-badge&logo=mysql&logoColor=D6BCFA" />
-<img src="https://img.shields.io/badge/Python-2D0A4E?style=for-the-badge&logo=python&logoColor=D6BCFA" />
-<img src="https://img.shields.io/badge/Pandas-1A0533?style=for-the-badge&logo=pandas&logoColor=9D4EDD" />
-<img src="https://img.shields.io/badge/NumPy-1A0533?style=for-the-badge&logo=numpy&logoColor=9D4EDD" />
-<img src="https://img.shields.io/badge/Matplotlib-2D0A4E?style=for-the-badge&logo=python&logoColor=D6BCFA" />
-<img src="https://img.shields.io/badge/Excel-1A0533?style=for-the-badge&logo=microsoftexcel&logoColor=9D4EDD" />
-<img src="https://img.shields.io/badge/Tableau-2D0A4E?style=for-the-badge&logo=tableau&logoColor=D6BCFA" />
-<img src="https://img.shields.io/badge/Statistics-1A0533?style=for-the-badge&logo=googleanalytics&logoColor=9D4EDD" />
-</p>
-
----
-
-### 📊 Stats Window `[LEVEL UP]`
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itsashwinr&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=9D4EDD&icon_color=9D4EDD&text_color=D6BCFA" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsashwinr&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=9D4EDD&text_color=D6BCFA" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=itsashwinr&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=9D4EDD&currStreakLabel=D6BCFA" width="70%" />
-</p>
-
----
-
-### 🏆 Hunter Rank Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itsashwinr&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
----
-
-### 👤 Watch the Shadow Soldiers Consume My Contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/itsashwinr/itsashwinr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/itsashwinr"><img src="https://img.shields.io/badge/LinkedIn-2D0A4E?style=for-the-badge&logo=linkedin&logoColor=D6BCFA" /></a>
-<a href="mailto:ashwin2000achu@gmail.com"><img src="https://img.shields.io/badge/Email-1A0533?style=for-the-badge&logo=gmail&logoColor=9D4EDD" /></a>
-</p>
-
-<div align="center">
-
-🔮 *"I alone level up... one query, one dashboard, one insight at a time."* 🔮
+<a href="https://linkedin.com/in/itsashwinr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ashwin2000achu@gmail.com"><img src="https://img.shields.io/badge/Email-1B4965?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/Open%20to%20work-Data%20%26%20Business%20Analyst-2E7D32?style=for-the-badge" alt="Open to work"/>
 
 </div>
+About
+
+I spent two years in regulatory compliance, validating, reconciling and reporting on client and transaction data against exchange and regulatory requirements. That work built the habits I bring to analytics: check the data first, document the logic, and report numbers people can trust.
+
+I'm now completing the Data Science and Machine Learning Program at Scaler Academy and looking for my first Data Analyst or Business Analyst role.
+
+	
+Focus	Data analysis, KPI reporting, dashboards, exploratory analysis
+Based in	Hosur, India
+Open to	Chennai, Bengaluru, remote
+Training	Data Science and Machine Learning Program, Scaler Academy
+Tech stack
+
+Databases and languages <br> <img src="https://img.shields.io/badge/SQL-1B4965?style=flat-square" alt="SQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+Analysis and visualization <br> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+
+Tools <br> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+
+Featured work
+
+Business use cases completed during the Scaler Academy program, plus related repositories.
+
+Project	What it covers	Stack	Links
+Netflix Content Analysis	Exploratory analysis of 8,807 titles by content type, rating, genre, country, release year and duration	Python, pandas, NumPy, Matplotlib, Seaborn	Code: add link
+E-commerce Analytics	Orders, customers, payments and delivery performance, answered with JOINs, CTEs and window functions	SQL, Google BigQuery	Code: add link
+Employee Performance & Attrition	1 lakh employee records: performance, overtime, satisfaction and attrition risk	SQL, Tableau	Code · Dashboard
+Product Sales Forecasting	Product sales forecasting	XGBoost, Flask	Code
+<details> <summary><b>More work</b></summary> <br>
+Project	What it covers	Stack	Links
+Business case studies	Case studies across industries and business scenarios	Jupyter	Code
+Superstore Sales Analysis	9,994 retail sales records: sales and profitability by region, category and segment	MySQL, Tableau, Excel	Code · Dashboard
+Retail Inventory & Sales Performance	Revenue trends, inventory risk, forecast accuracy and promotion effectiveness	MySQL, Tableau, Excel	Code · Dashboard
+</details>
+How I work
+Start from the question. Define the business decision before touching the data.
+Validate first. Check completeness, duplicates and reconciliation before any analysis.
+Show the answer. Turn findings into KPIs, dashboards and a short written takeaway.
+Experience
+
+Regulatory Compliance Executive, Allreach Commodities India Pvt Ltd (Apr 2022 – May 2024)
+
+Validated and reconciled large datasets in Excel using XLOOKUP/VLOOKUP, IF, COUNTIF and Pivot Tables.
+Produced daily, weekly and monthly compliance reports for management.
+Built Pivot Table dashboards to track compliance metrics and supported regulatory audits with validated data.
+<details> <summary><b>Certifications (Scaler Academy)</b></summary> <br>
+SQL
+Exploratory Data Analysis (EDA)
+Python Libraries (pandas, NumPy, Visualization)
+Supervised Learning
+Unsupervised Learning
+MLOps
+</details>
+<div align="center">
+
+Open to Data Analyst and Business Analyst roles. Let's connect.
+
+<a href="https://linkedin.com/in/itsashwinr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ashwin2000achu@gmail.com"><img src="https://img.shields.io/badge/Email-1B4965?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4965&height=90&section=footer" alt="" width="100%"/> </div>
